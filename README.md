@@ -1,5 +1,5 @@
 # traveling-octokit
-Self-contained, dependency-free, Octokit.rb.-powered scripts
+Self-contained, dependency-free, :octocat: DevOps scripts. Powered by [Octokit.rb](https://github.com/octokit/octokit.rb) and [Traveling Ruby](http://phusion.github.io/traveling-ruby/).
 
 ## Installation
 
